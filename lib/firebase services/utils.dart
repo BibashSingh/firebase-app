@@ -9,7 +9,7 @@ class utils{
         timeInSecForIosWeb: 3,
         backgroundColor: Color.fromARGB(255, 216, 130, 11),
         textColor: Colors.white,
-        fontSize: 24,
+        fontSize: 26,
     );
   }
 }
